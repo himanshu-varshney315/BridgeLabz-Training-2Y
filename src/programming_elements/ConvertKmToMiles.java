@@ -1,4 +1,4 @@
-package java_fundamentals;
+package programming_elements;
 
 import java.util.Scanner;
 
