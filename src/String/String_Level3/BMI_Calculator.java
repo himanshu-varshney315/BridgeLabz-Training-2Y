@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UniqueCharacters {
+public class BMICalculator {
     public static int findLength(String text) {
         int count = 0;
         try {
